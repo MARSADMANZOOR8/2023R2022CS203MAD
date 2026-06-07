@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725280840366",
+    "project_id": "foodtruckapp-20db4",
+    "storage_bucket": "foodtruckapp-20db4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725280840366:android:c1dde37362228174356b3f",
+        "android_client_info": {
+          "package_name": "com.example.foodtruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725280840366-jgci7bhtq1jej6cpna6v6isn317v8dem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodtruck",
+            "certificate_hash": "d93a67d7e78d75c34539a158255f34fb7a5f8a03"
+          }
+        },
+        {
+          "client_id": "725280840366-40h725pisk4g75acqehbggaqs32tkr3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kVb7ttl6rYIyLNiNDkqnVGOZ6PvT04M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725280840366-40h725pisk4g75acqehbggaqs32tkr3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

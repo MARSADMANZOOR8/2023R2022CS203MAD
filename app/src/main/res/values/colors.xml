@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#FFA500</color> <!-- Orange -->
+    <color name="secondaryColor">#FFD700</color> <!-- Yellow -->
+    <color name="accentColor">#32CD32</color> <!-- Green -->
+    <color name="backgroundColor">#FFF8E1</color> <!-- Light Yellow -->
+    <color name="primaryTextColor">#333333</color> <!-- Dark Gray  -->
+    <color name="secondaryTextColor">#212121</color> <!-- Darker Gray (From Theme.kt) -->
+</resources>
