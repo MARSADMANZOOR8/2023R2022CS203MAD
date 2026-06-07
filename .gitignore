@@ -1,0 +1,51 @@
+# Built-in Git Ignore Templates for Android Studio / IntelliJ IDEA / Kotlin Projects
+# ----------------------------------------------------------------------------------
+
+# Gradle Files
+.gradle/
+build/
+capture/
+output.json
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+jdk-17.0.14/
+jdk*
+# Android Studio Local Configuration (User-specific)
+local.properties
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+cmake-build-*/
+
+# Keystores / Signing (CRITICAL: Never commit your production keys)
+*.jks
+*.keystore
+*.p12
+
+# Log Files
+*.log
+
+# Android Studio Layout Inspector & Profiler
+*.hprof
+*.prof
+
+# Device / Emulator files
+*.apk
+*.aar
+*.bundle
+
+# NDK / C++ compilation artifacts
+obj/
+libs/
+
+# Mac / Windows OS specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin specific
+.kotlin/
